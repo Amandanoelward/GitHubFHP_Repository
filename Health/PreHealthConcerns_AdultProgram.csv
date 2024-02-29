@@ -1,6 +1,6 @@
 "In the Year Before Entering the Program, What Kind of Health Concerns Did you Have? ",N,Percent,Percent of Cases
 Did Not Answer or Unsure,0,0,0%
 None,2,0.02%,2.70%
-Physical,55,0.43%,75.30%
-Mental,44,0.34%,60.30%
-Substance Use,28,0.22%,38.40%
+Physical (n=55),55,0.43%,75.30%
+Mental (n=44),44,0.34%,60.30%
+Substance Use (n=28),28,0.22%,38.40%
