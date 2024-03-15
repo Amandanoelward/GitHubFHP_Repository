@@ -1,4 +1,10 @@
-﻿"Since entering the program, has your [  ] changed for the better, worse, or about the same? ",Better,Worse,About the same,Did not answer
-Physical Health (n=28),75,3.6,17.9,3.6
-Mental Health (n=43),69.8,9.3,20.9,0
-Relationship with substances (n=6),100,0,0,0
+<<<<<<< HEAD,,,,,,,
+"﻿""Since entering the program", has your [  ] changed for the better, worse," or about the same? """,Better,Worse,About the same,Did not answer
+Physical Health (n=28),75,3.6,17.9,3.6,,,
+Mental Health (n=43),69.8,9.3,20.9,0,,,
+Relationship with substances (n=6),100,0,0,0,,,
+,,,,,,,
+"﻿""Since entering the program", has your [  ] changed for the better, worse," or about the same? """,Better,Worse,About the same,Did not answer
+Physical Health (n=28),75,3.6,17.9,3.6,,,
+Mental Health (n=43),69.8,9.3,20.9,0,,,
+Relationship with substances (n=6),100,0,0,0,,,
