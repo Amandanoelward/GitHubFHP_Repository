@@ -1,0 +1,15 @@
+ReasonsDifficultToHaveOwnPlace=CUSP,N=10,Percent of Cases
+  Moving to a different city,1,10.0%
+"  Losing a job or losing income from a job (i.e. hours cut, lost portion of a job)",6,60.0%
+"  Losing income not related to a job (i.e. gambling, welfare cut off)",1,10.0%
+"  Increased expenses (i.e. rent, mortgage, healthcare, drugs and alcohol)",1,10.0%
+"  Not enough income to afford lease (low-paying job, Welfare not enough)",2,20.0%
+  Eviction,1,10.0%
+  Discharge from jail/prison,1,10.0%
+  Unbearable living conditions,1,10.0%
+  Interpersonal conflict,2,20.0%
+  Your own physical or mental health,2,20.0%
+  Getting into trouble with the law,1,10.0%
+"  Someone you were depending on for housing, food, or money was no longer able to willing to help you out",3,30.0%
+  Alcohol or other drug problems,2,20.0%
+10_other,3,30.0%
