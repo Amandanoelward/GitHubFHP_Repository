@@ -1,21 +1,21 @@
-Response,Families with Dependant kids,Percent Families with Dependent Kids,Youth No Kids,Percent Youth No Dependents,Number Adult No Dependents,Percent Adult No Dependents
-"Building/Unit amenities (laundry, appliances, parking)",10,18.20%,11,36.70%,7,12.50%
-Did not answer,1,1.80%,1,3.30%,,
-Diversity/Diverse Community,,,,,2,3.60%
-"Floor, layout, space requirements (number of rooms)",24,43.60%,9,30.00%,18,32.10%
-Just a place to live or stay/a place to call home,1,1.80%,1,3.30%,10,17.90%
-"Location (City, Suburbs, North Side, Neighborhood)",14,25.50%,7,23.30%,19,33.90%
-Location far away from previous social ties/environment,7,12.70%,1,3.30%,4,7.10%
-Near family and friends,7,12.70%,4,13.30%,6,10.70%
-"Near work, school, or church",9,16.40%,1,3.30%,1,1.80%
-Neighborhood feels welcoming,8,14.50%,2,6.70%,3,5.40%
-Neighborhood Safe from crime,33,60.00%,12,40.00%,19,33.90%
-"Neighborhood with Transportation and community resources (library, grocery stores, churches, etc.)",10,18.20%,4,13.30%,10,17.90%
-Neighbors take good care of homes and property,7,12.70%,3,10.00%,2,3.60%
-No Children,,,,,1,1.80%
-No Pests (Rodents Bugs),6,10.90%,2,6.70%,2,3.60%
-Pet Friendly,,,2,6.70%,1,1.80%
-Physical Accessibility Needs (ramp/no stairs etc.),3,5.50%,0,0.00%,9,16.10%
-Quiet,6,10.90%,1,3.30%,5,8.90%
-Responsive/Reliable Property Manager or landlord,0,0.00%,1,3.30%,,
-Safe Environment for Children/Family,4,7.30%,1,3.30%,,
+Response,Categories of Response,Families with Dependant kids,Percent Families with Dependent Kids,Youth No Kids,Percent Youth No Dependents,Number Adult No Dependents,Percent Adult No Dependents
+"Building/Unit amenities (laundry, appliances, parking)",Building or Unit Meets my Needs,10,18.20%,11,36.70%,7,12.50%
+Did not answer,,1,1.80%,1,3.30%,,
+Diversity/Diverse Community,Neighborhood Environment,,,,,2,3.60%
+"Floor, layout, space requirements (number of rooms)",Building or Unit Meets my Needs,24,43.60%,9,30.00%,18,32.10%
+Just a place to live or stay/a place to call home,Building or Unit Meets my Needs,1,1.80%,1,3.30%,10,17.90%
+"Location (City, Suburbs, North Side, Neighborhood)",Location,14,25.50%,7,23.30%,19,33.90%
+Location far away from previous social ties/environment,Location,7,12.70%,1,3.30%,4,7.10%
+Near family and friends,Location,7,12.70%,4,13.30%,6,10.70%
+"Near work, school, or church",Location,9,16.40%,1,3.30%,1,1.80%
+Neighborhood feels welcoming,Neighborhood Environment,8,14.50%,2,6.70%,3,5.40%
+Neighborhood Safe from crime,Neighborhood Environment,33,60.00%,12,40.00%,19,33.90%
+"Neighborhood with Transportation and community resources (library, grocery stores, churches, etc.)",Neighborhood Environment,10,18.20%,4,13.30%,10,17.90%
+Neighbors take good care of homes and property,Neighborhood Environment,7,12.70%,3,10.00%,2,3.60%
+No Children,Misc,,,,,1,1.80%
+No Pests (Rodents Bugs),Building or Unit Quality,6,10.90%,2,6.70%,2,3.60%
+Pet Friendly,Building or Unit Meets my Needs,,,2,6.70%,1,1.80%
+Physical Accessibility Needs (ramp/no stairs etc.),Building or Unit Meets my Needs,3,5.50%,0,0.00%,9,16.10%
+Quiet,Building or Unit Meets my Needs,6,10.90%,1,3.30%,5,8.90%
+Responsive/Reliable Property Manager or landlord,Building or Unit Quality,0,0.00%,1,3.30%,,
+Safe Environment for Children/Family,Misc,4,7.30%,1,3.30%,,
