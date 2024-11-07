@@ -1,11 +1,12 @@
-,Number Older Adult Homeless,Older Adult Percent,Emerging Adult Singles,Percent of Emerging Adult Singles ,Families with Dependent children,Precent Families with Dependent Children
-   All positive,14,31.10%,7,18.40%,13,24.50%
-   Building/Unit is unsafe,3,6.70%,1,2.60%,5,9.40%
-   Landlord is not responsive,5,11.10%,5,13.20%,13,24.50%
-   Pest Problem (Rodents Bugs),3,6.70%,8,21.10%,4,7.50%
-"   Bad Neighbors (not respectful, welcoming, etc.)",4,8.90%,3,7.90%,6,11.30%
-   Feels unwelcome in building/unit due to race,1,2.20%,1,2.60%,3,5.70%
-"   Building/Unit is not well cared for (maintenance issues, upkeep)",14,31.10%,18,47.40%,15,28.30%
-"   Building/Unit does not have amenities they value (laundry, appliances, parking)",10,22.20%,6,15.80%,5,9.40%
-   poor Floor/layout/space,6,13.30%,5,13.20%,12,22.60%
-   Building/Unit not accessible for disability,2,4.40%,1,2.60%,1,1.90%
+,Families with Dependent children,Precent Families with Dependent Children,Emerging Adult Singles,Percent of Emerging Adult Singles ,Number Older Adult Homeless,Older Adult Percent
+   All positive,13,24.50%,7,18.40%,14,31.10%
+,,,,,,
+"   Building/Unit is not well cared for (maintenance issues, upkeep)",15,28.30%,18,47.40%,14,31.10%
+   Landlord is not responsive,13,24.50%,5,13.20%,5,11.10%
+   poor Floor/layout/space,12,22.60%,5,13.20%,6,13.30%
+"   Bad Neighbors (not respectful, welcoming, etc.)",6,11.30%,3,7.90%,4,8.90%
+"   Building/Unit does not have amenities they value (laundry, appliances, parking)",5,9.40%,6,15.80%,10,22.20%
+   Building/Unit is unsafe,5,9.40%,1,2.60%,3,6.70%
+   Pest Problem (Rodents Bugs),4,7.50%,8,21.10%,3,6.70%
+   Feels unwelcome in building/unit due to race,3,5.70%,1,2.60%,1,2.20%
+   Building/Unit not accessible for disability,1,1.90%,1,2.60%,2,4.40%
