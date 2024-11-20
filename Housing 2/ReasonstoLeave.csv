@@ -1,19 +1,16 @@
-Reason People Left ,,Percent,
-  Did not answer,1,2.0%,
-  Building/Unit was unsafe,17,34.0%,
-  Landlord not responsive/bad relationship/unreasonable,18,36.0%,
-  Neighbors unwelcoming due to race,1,2.0%,
-"  Neighbors unwelcoming, other reason",15,30.0%,
-"  Pest Problem (Rodents, Bugs)",17,34.0%,
-  Building/Unit is not well cared for,21,42.0%,
-  Evicted or Asked to Leave,4,8.0%,
-  Neighborhood Not Safe,6,12.0%,
-"  Little access to transportation and community resources (library, grocery stores, churches, etc.)",1,2.0%,
-  Not near family and friends,1,2.0%,
-"  Not near work, school, or church",2,4.0%,
-14_other,1,2.0%,
-  Physical Accessibility Needs,2,4.0%,
-  Abuse from a partner or person they were living with,4,8.0%,
-  Unaffordable Bills/Rent,2,4.0%,
-  Poor Layout/Insufficient Size,4,8.0%,
-,,,
+Reason People Left ,,,Percent
+  Did not answer,1,,2.00%
+  Building/Unit was unsafe,17,Safety,34.00%
+  Landlord not responsive/bad relationship/unreasonable,18,,36.00%
+  Neighbors unwelcoming ,16,,32.00%
+"  Pest Problem (Rodents, Bugs)",17,Building/Unit Quality,34.00%
+  Building/Unit is not well cared for,21,Building/Unit Quality,42.00%
+  Evicted or Asked to Leave,4,,8.00%
+  Neighborhood Not Safe,6,Safety,12.00%
+"  Little access to transportation and community resources (library, grocery stores, churches, etc.)",1,Poor Fit for Me,2.00%
+  Not near family and friends,1,Poor Fit for Me,2.00%
+"  Not near work, school, or church",2,Poor Fit for Me,4.00%
+  Physical Accessibility Needs,2,Poor Fit for Me,4.00%
+  Abuse from a partner or person they were living with,4,Safety,8.00%
+  Unaffordable Bills/Rent,2,,4.00%
+  Poor Layout/Insufficient Size,4,Poor Fit for Me,8.00%
