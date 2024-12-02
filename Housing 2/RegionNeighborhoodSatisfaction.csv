@@ -1,11 +1,7 @@
-Chicago Regions * Do you like your current neighborhood? Crosstabulation,,,,,,
-Count,,,,,,
-,,Do you like your current neighborhood?,,,,
-,,Yes,No,Mixed Feelings,Neutral,
-,Far South,3,1,0,1,60%
-,North,11,0,0,1,92%
-,Northwest,7,0,0,0,100%
-,South,40,7,8,1,71%
-,Southwest,4,0,0,1,80%
-,West,23,7,6,3,59%
-Total,,89,15,14,7,
+,Yes,No,Mixed Feelings,Neutral
+Far South,3,1,0,1
+North,11,0,0,1
+Northwest,7,0,0,0
+South,40,7,8,1
+Southwest,4,0,0,1
+West,23,7,6,3
