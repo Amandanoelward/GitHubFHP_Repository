@@ -3,10 +3,10 @@ Reason People Left ,,"Older Adult Homeless, No Dependants (10)","Emerging Adults
   Building/Unit is not well cared for,Building/Unit Quality,30%,31.30%,54.20%
   Building/Unit was unsafe,Safety,40%,18.80%,41.70%
   Evicted or Asked to Leave,,10%,12.50%,4.20%
-  Landlord not responsive/bad relationship/unreasonable,Conflict,50%,25.00%,37.50%
+"""Bad"" Landlords",Conflict,50%,25.00%,37.50%
 "  Little access to transportation and community resources (library, grocery stores, churches, etc.)",Poor Fit for Me,,,4.20%
   Neighborhood Not Safe,Safety,,6.30%,20.80%
-  Neighbors unwelcoming ,Conflict,40%,25.00%,33.30%
+"""Bad"" Neighbors",Conflict,40%,25.00%,33.30%
   Not near family and friends,Poor Fit for Me,,,4.20%
 "  Not near work, school, or church",Poor Fit for Me,,,8.30%
 "  Pest Problem (Rodents, Bugs)",Building/Unit Quality,20%,31.30%,41.70%
