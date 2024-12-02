@@ -1,7 +1,7 @@
-,Yes,No,Mixed Feelings or Neutral
+,Yes,Mixed Feelings or Neutral,No
 Far South,3,1,1
-North,11,0,1
+North,11,1,0
 Northwest,7,0,0
-South,40,7,9
-Southwest,4,0,1
-West,23,7,9
+South,40,9,7
+Southwest,4,1,0
+West,23,9,7
